@@ -9,10 +9,7 @@ En este curso vemos de todo:
 -Trucos muy locos del profesor
 -Las personalidades múltiples de Freddy
 -Creado por el increíble PlatziTeam
-<<<<<<< HEAD
-=======
 -Incluye ejemplos en tdos los OS
 -Disponible para todas las edades
->>>>>>> readme-mejorado
 
 Y como recordatorio: **Este readme.md es un chiste** para el ejemplo
